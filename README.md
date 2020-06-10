@@ -1,8 +1,8 @@
 # hackathon-credit-amount-upgrad
 
-     ## Data Science Challenge 
+## Data Science Challenge 
      
-     ﻿The data given is of credit records of individuals with certain attributes. Please go through following to understand the variables involved: 
+   The data given is of credit records of individuals with certain attributes. Please go through following to understand the variables involved: 
 1. **serial number :** unique identification key 
      
 2. **account_info :** Categorized details of existing accounts of the individuals. The balance of money in account provided is stated by this variable 
